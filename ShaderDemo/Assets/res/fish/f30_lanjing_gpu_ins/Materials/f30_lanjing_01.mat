@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: f30_lanjing_01
-  m_Shader: {fileID: 4800000, guid: 0cf84a1bed0952c4fa42e5f12ee66c6c, type: 3}
+  m_Shader: {fileID: 4800000, guid: 3712b55f8db82bd4cab57e7a9efb71c9, type: 3}
   m_ShaderKeywords: _ROTATE_0 _ROTATE_1 _ROTATE_BODY _ROTATE_UP_DOWN
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -86,6 +86,6 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 1.3041189, g: 1.3041189, b: 1.3041189, a: 1}
+    - _Color: {r: 1.3041189, g: 1.3041189, b: 1.3041189, a: 0.62352943}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _InnerColor: {r: 0.990566, g: 0.78095144, b: 0.014017418, a: 1}

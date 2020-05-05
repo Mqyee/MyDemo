@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Examples/PlantEffect/PlantScene.unity
+- path: Assets/Examples/FishEffect/FishScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
