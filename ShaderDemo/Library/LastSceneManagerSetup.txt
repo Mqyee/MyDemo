@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Examples/RoleEffect/RoleScene.unity
+- path: Assets/Examples/PlantEffect/PlantScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
