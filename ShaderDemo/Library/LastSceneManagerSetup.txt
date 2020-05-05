@@ -1,4 +1,5 @@
 sceneSetups:
-- path: Assets/RoleEffect/RoleScene.unity
+- path: Assets/Examples/RoleEffect/RoleScene.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
